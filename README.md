@@ -1,5 +1,5 @@
 # A.I-Vaccine Sentiment Classifier
-In this project I use artificial intelligence and machine learning to train a model to be able to tell if a person is an anti-vax, a pro-vax or none just by giving a tweet if theirs as iput. The method used is multinomial logistic regression (Softmax Regression) and the model is trained on real twitter data. Check below for more info. You can also check the report I made in Greek to see how my experimentations lead me to this final model with 71% accuracy!
+In this project I use artificial intelligence and machine learning to train a model to be able to tell if a person is an anti-vax, a pro-vax or none just by giving a tweet of theirs as input. The method used is multinomial logistic regression (Softmax Regression) and the model is trained on real twitter data. Check below for more info. You can also check the report I made in Greek to see how my experimentations lead me to this final model with 71% accuracy!
 
 ## Installation / Run
 ✔️ You can download and open the jupyter notebook in any platform that supports it, like google collab which is where this classifier was developed. You will also find the datasets in /data/ that the model uses to train and evaluate. Make sure to make a file named "data" in google collab and upload the datasets inside in order to instantly run the code.
